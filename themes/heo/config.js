@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '55795496.xyz',
   HEO_HERO_TITLE_4: 'xinhui',
   HEO_HERO_TITLE_5: '欣辉工作室，虚拟现实的结合',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://55795496.xyz',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
