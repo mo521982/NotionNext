@@ -28,7 +28,7 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '梯子节点', url: '/tag/梯子节点 },
+  HEO_HERO_CATEGORY_1: { title: '梯子节点', url: '/tag/梯子节点' },
   HEO_HERO_CATEGORY_2: { title: '海外开户', url: '/tag/海外开户' },
   HEO_HERO_CATEGORY_3: { title: '各种U卡', url: '/tag/实用工具' },
   HEO_HERO_CATEGORY_4: { title: 'ESIM卡', url: '/tag/ESIM卡' },
