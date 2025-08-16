@@ -25,7 +25,7 @@ const CONFIG = {
   HEO_HERO_TITLE_5: '虚拟资产=现实资产的方法',
   HEO_HERO_TITLE_LINK: 'https://55795496.xyz',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: '请随便逛逛',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '梯子节点', url: '/tag/梯子节点' },
